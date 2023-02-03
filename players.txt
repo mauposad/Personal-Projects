@@ -1,0 +1,102 @@
+QB Patrick Mahomes 5100 7 47 280
+QB Kyler Murray 4400 14 34 780
+QB Josh Allen 4800 13 43 390
+QB Lamar Jackson 4200 11 31 900
+QB Aaron Rodgers 4900 8 40 130
+QB Russel Wilson 4800 12 37 420
+QB Justin Herbert 5100 15 39 260 
+QB Tom Brady 4100 12 40 20
+QB Matthew Stafford 4800 13 33 100
+QB Jalen Hurts 4600 9 39 335
+QB Dak Prescott 4450 11 32 215
+QB Joe Burrow 5000 10 44 260
+WR Justin Jefferson 1500 6 15.2 99 43
+WR Tyreek Hill 1460 6 14.6 100 39
+WR Davante Adams 1247 12 15.2 82 60
+WR Stefon Diggs 1239 10 13.2 94 39
+WR AJ Brown 1020 10 15.7 65 37
+WR Amon-Ra St.Brown 898 6 11.0 82 27
+WR CeeDee Lamb 961 6 13.0 74 43
+WR Tyler Lockett 896 8 12.6 71 28
+WR Cooper Kupp 812 6 10.8 75 23 
+WR Christian Kirk 874 7 13.0 67 39
+WR Jaylen Waddle 1003 6 17.0 59 35
+WR Amari Cooper 874 7 13.9 63 46    
+WR DK Metcalf 869 6 12.1 72 38
+WR Ja'Marr Chase 821 7 12.8 64 33
+WR Terry McLaurin 945 3 15.2 62 36
+WR Tee Higgins 861 5 14.4 60 25
+WR Garrett Wilson 868 4 13.8 63 38
+WR Brandon Aiyuk 755 7 13.0 58 28
+WR DeVonta Smith 775 5 11.7 66 29   
+WR Chris Olave 887 3 14.8 60 28 
+WR Deebo Samuel 612 2 11.3 54 37    
+WR Michael Pittman 755 2 9.9 76 31
+WR Mike Evans 805 3 13.6 59 39
+WR Chris Godwin 702 2 9.6 73 35
+WR Adam Thielen 645 4 10.2 63 28
+WR JuJu SmithSchuster 762 3 12.5 61 22 
+WR George Pickens 590 2 14.8 40 24
+WR DeAndre Hopkins 653 3 11.7 56 19
+WR Jerry Jeudy 587 6 14.0 42 26
+WR DJ Moore 605 4 13.2 46 45
+WR Courtland Sutton 688 1 13.2 52 37
+RB Austin Ekeler 692 165 2 4.2 9
+RB Josh Jacobs 1495 291 1 5.1 11
+RB Christian McCaffrey 927 200 0 4.6 6
+RB Derrick Henry 1303 296 2 4.4 12
+RB Saquon Barkley 1170 269 0 4.3 9
+RB Nick Chubb 1252 252 1 5.0 12
+RB Tony Pollard 969 177 0 5.5 9
+RB Rhamondre Stevenson 914 183 0 5.0 5
+RB Dalvin Cook 1045 230 3 4.5 8
+RB Joe Mixon 722 183 0 3.9 6
+RB Aaron Jones 847 164 1 5.2 2
+RB Miles Sanders 1110 215 1 5.2 11
+RB Leonard Fournette 568 159 0 3.6 3
+RB Jamaal Williams 839 217 2 3.9 14
+RB Najee Harris 790 211 1 3.7 6
+RB Alvin Kamara 641 164 4 3.9 1
+RB Dameon Pierce 939 220 2 4.3 4
+RB Travis Etienne 917 182 3 5.0 4 
+RB Ezekiel Elliot 774 188 0 4.1 10
+RB Kenneth Walker 696 150 0 4.6 9
+RB James Connor 624 152 1 4.1 6 
+RB Antonio Gibson 536 144 0 3.7 3
+RB David Montgomery 694 172 1 4.0 5
+RB Devin Singletaroy 684 158 2 4.3 4
+RB Jerick McKinnon 274 63 1 4.3 1
+RB Jonathan Taylor 861 192 3 4.5 4
+RB D'Andre Swift 427 78 0 5.5 4
+RB AJ Dillon 660 154 0 4.3 5
+RB Breece Hall 463 80 1 5.8 4
+RB Kareem Hunt 447 110 0 4.1 3
+K Daniel Carlson 29 32 3
+K Tyler Bass 27 30 3
+K Nick Folk 30 35 5
+K Justin Tucker 29 34 5
+K Brett Maher 23 26 3
+K Jason Myers 26 27 1
+K Greg Zuerlein 25 30 5
+K Chase McLaughlin 27 32 5
+K Eddy Pineiro 28 30 2
+K Younghoe Koo 24 29 5
+K Graham Gano 24 27 3
+K Evan McPherson 21 25 4
+K Jason Sanders 21 25 4
+DEF Patriots 48 14 5
+DEF Cowboys 49 12 3
+DEF 49ers 39 14 3
+DEF Eagles 55 15 1
+DEF Ravens 42 14 0
+DEF Bills 37 13 1
+DEF Jets 39 12 0
+DEF Broncos 35 14 0
+DEF Cardinals 31 9 5
+DEF Colts 39 7 1
+DEF Jaguars 26 12 2 
+DEF Commanders 34 7 2
+DEF Panthers 29 10 4
+DEF Seahawks 35 11 1
+DEF Chiefs 43 8 2
+DEF Dolphins 35 7 2
