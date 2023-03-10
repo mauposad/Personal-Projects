@@ -140,7 +140,7 @@ void createPlayer(vector<QB> &Quarterbacks, vector<WR> &Receivers, vector<RB> &R
     while(getline(fin, inputString)){
         stringstream iss (inputString);
         iss >> PP;
-        cout << PP << endl;
+        cout << PP << endl;// doesnt skip to next, stays in same spot. (how to skip to next line?)
         if(PP == "QB"){
             createQB(Quarterbacks, inputString);
         }
